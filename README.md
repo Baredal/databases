@@ -1,1 +1,1 @@
-# databases
+# Databases course
